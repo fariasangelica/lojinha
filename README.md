@@ -1,4 +1,4 @@
-# lojinhaApp
+# LojaApp em Java
 
 Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do Júlio de Lima. 
 
