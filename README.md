@@ -4,6 +4,7 @@ Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do J
 
 > Fonte da mentoria **[here](https://www.juliodelima.com.br/mentoria/)**
 
+
 ## 🧐 O que é o projeto?
 - Construção de uma LojaApp em Java.
 
@@ -11,7 +12,10 @@ Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do J
 ## ⚙️Requisitos para a crição do projeto
 
 - Java
+**[here](https://www.java.com/pt-BR/)**
+  
 - IntelliJ
+**[here](https://www.jetbrains.com/pt-br/idea/)**
 
 ## 📌 O que estou estudando no módulo técnico?
 
