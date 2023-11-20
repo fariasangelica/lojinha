@@ -26,9 +26,11 @@ Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do J
   - [x] Encapsulamento
   - [x] Condicionais
   - [x] Listas
+  - [x] Enums
+  - [x] Construtores
         
 
-- [ ] Parte 2
+    
 
 
 
