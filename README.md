@@ -19,7 +19,7 @@ Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do J
 
 ## 📌 O que estou estudando no módulo técnico?
 
-- [x] Parte 1
+- [x] Java 
   - [x] Criação de um projeto no IntelliJ
   - [x] Variáveis
   - [x] Classes
@@ -28,6 +28,7 @@ Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do J
   - [x] Listas
   - [x] Enums
   - [x] Construtores
+  - [ ] Laços
         
 
     
