@@ -7,9 +7,16 @@ import java.util.List;
 public class Produto {
     private String nome;
     private String marca;
-    private double valor;
+    protected double valor;
     private Tamanho tamanho;
     private List<ItemIncluso> itensInclusos;
+
+    public Produto(String marcaInicial, Tamanho tamanhoInicial) {
+    }
+
+    public Produto() {
+
+    }
 
     //método para capturar o valor dentro do atributo valor
     public double getValor() {
