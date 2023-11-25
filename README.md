@@ -1,8 +1,8 @@
 # LojaApp em Java
 
-Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do Júlio de Lima. 
+Aqui você encontrará os contéudos que tive da linguagem Java na Mentoria do Júlio de Lima. 
 
-> Fonte da mentoria **[here](https://www.juliodelima.com.br/mentoria/)**
+> Link para a mentoria **[here](https://www.juliodelima.com.br/mentoria/)**
 
 
 ## 🧐 O que é o projeto?
@@ -17,7 +17,7 @@ Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do J
 - IntelliJ
 **[here](https://www.jetbrains.com/pt-br/idea/)**
 
-## 📌 O que estou estudando no módulo técnico?
+## 📌 O que estudei no módulo técnico de Java?
 
 - [x] Java 
   - [x] Criação de um projeto no IntelliJ
@@ -28,7 +28,10 @@ Aqui você encontrará todo o estudo que tive da linguagem Java na Mentoria do J
   - [x] Listas
   - [x] Enums
   - [x] Construtores
-  - [ ] Laços
+  - [x] Laços
+  - [x] Herança
+  - [x] Polimorfismo
+  - [x] Interface
         
 
     
